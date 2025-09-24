@@ -4,7 +4,6 @@
 .Ruserdata
 BAG/
 data/**
-output/**
 
 
 # Common heavy formats
